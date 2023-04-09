@@ -43,6 +43,7 @@ if (mysqli_num_rows($info) > 0) {
     $_SESSION["uid"] = $_POST["password"];
     $_SESSION["status"] = true;
     header("location: index.php");
+   
 if ($type == "admin") {
     header("location: index.php");
     $_SESSION["isAdmin"] = 1;

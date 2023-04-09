@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SampleTest::testTrueAssertToTrue":5,"SampleTest::testLoggin":5,"SampleTest::testConnection":7,"SampleTest::testfindUser":5},"times":{"SampleTest::testTrueAssertToTrue":0.017,"SampleTest::testLoggin":0.028,"SampleTest::testConnection":0.015,"SampleTest::testfindUser":0.002}}

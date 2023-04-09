@@ -64,7 +64,7 @@
                 <li class="active"><a href="#tab1">Add Item</a></li>
                 <li><a href="#tab2">Delete Item</a></li>
                 <li><a href="#tab3">Update Item</a></li>
-                <li><a href="http://localhost/OnlineTechStore-1/index.php">List Item</a></li>
+                <li><a href="/Online-Toy-Store-master/getList.php">List Item</a></li>
                 <li><a href="#tab4">Logout</a></li>
             </ul>
 

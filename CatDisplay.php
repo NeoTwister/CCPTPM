@@ -71,7 +71,7 @@
             </div>
             <div class='col-lg-9'>";
             
-$connecti = mysqli_connect("localhost", "root", "root", "gadgetstore");
+$connecti = mysqli_connect("localhost", "root", "", "gadgetstore");
 
 if (!$connecti) {
     die("Connection failed: " . mysqli_connect_error());
